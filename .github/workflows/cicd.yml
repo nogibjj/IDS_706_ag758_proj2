@@ -1,9 +1,9 @@
 name: Ayush CI
 on:
   push:
-    branches: [ "GPU" ]
+    branches: [ "sum_two" ]
   pull_request:
-    branches: [ "GPU" ]
+    branches: [ "sum_two" ]
   workflow_dispatch:
 
 jobs:
