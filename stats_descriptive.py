@@ -1,5 +1,5 @@
 import pandas as pd
-data = pd.read_csv("..csv")
+data = pd.read_csv("forbes_2022_billionaires.csv")
 
 def stats_mean(df):
     return df['age'].mean()
