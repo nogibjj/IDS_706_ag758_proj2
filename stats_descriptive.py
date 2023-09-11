@@ -1,3 +1,6 @@
+import pandas as pd
+data = pd.read_csv("..csv")
+
 def stats_mean(df):
     return df['age'].mean()
   
@@ -12,3 +15,10 @@ def stats_mode(df):
 
 def stats_std(df):
     return df["age"].std()
+
+print(stats_mean(data))
+print(stats_median(data))
+print(stats_mode(data))
+
+
+
