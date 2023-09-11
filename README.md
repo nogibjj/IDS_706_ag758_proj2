@@ -19,7 +19,7 @@ The output of the visualization is :
 
 
 <p align=“center”>
-  <img width=“250" src=“https://github.com/nogibjj/IDS_706_ag758_proj2/blob/main/Visualization.jpg” alt=“My Image”>
+  <img width=“500" src=“https://github.com/nogibjj/IDS_706_ag758_proj2/blob/main/Visualization.jpg” alt=“My Image1”>
 </p>
 
 
