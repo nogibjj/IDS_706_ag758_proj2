@@ -18,9 +18,8 @@ visualization.py - This contains the code to analyze and visualize the output.
 The output of the visualization is :
 
 
-<p align=“center”>
-  <img width=“500" src=“https://github.com/nogibjj/IDS_706_ag758_proj2/blob/main/Visualization.png”>
-</p>
+![Visualization using Bar Chart](https://github.com/nogibjj/IDS_706_ag758_proj2/blob/main/Visualization.png)
+
 
 
 
