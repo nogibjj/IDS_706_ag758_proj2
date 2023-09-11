@@ -15,10 +15,30 @@ stats_descriptive.py - A python file that uses 3 functions to calculate mean, me
 test_stats.py - A python file that reads the forbes_2022_billionaires.csv file and tests the four functions in stats_descriptive.py.  
 visualization.py - This contains the code to analyze and visualize the output. 
 
+
 The output of the visualization is :
 
 
 ![Visualization using Bar Chart](https://github.com/nogibjj/IDS_706_ag758_proj2/blob/main/Visualization.png)
+
+## CI/CD Automation Files :
+requirements.txt - Holds all the necessary Python packages.
+
+Makfefile - Automates different parts of developing a Python Project that includes : 
+1. Running Tests
+2. Cleaning Builds
+3. Installing Dependencies
+
+.github/workflows - 
+Used for creating and storing GitHub Actions workflows. GitHub Actions is a continuous integration and continuous delivery (CI/CD) platform. The workflow is triggered on pushes to the main branch as the following representation: 
+
+![Visualization using Bar Chart](https://github.com/nogibjj/IDS_706_ag758_proj2/blob/main/GitHub.png)
+
+
+
+
+
+
 
 
 
