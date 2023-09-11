@@ -12,5 +12,4 @@ uvicorn==0.18.3
 jupyter==1.0.0
 pandas==1.5.0
 numpy==1.23.3
-plotly
-matplotlib
+matplotlib==3.5.1
