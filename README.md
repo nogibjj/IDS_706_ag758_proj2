@@ -17,8 +17,10 @@ visualization.py - This contains the code to analyze and visualize the output.
 
 The output of the visualization is :
 
-![GitHub Logo]((https://github.com/nogibjj/IDS_706_ag758_proj2/blob/main/Visualization.jpg))
 
+<p align=“center”>
+  <img width=“250" src=“https://github.com/nogibjj/IDS_706_ag758_proj2/blob/main/Visualization.jpg” alt=“My Image”>
+</p>
 
 
 
