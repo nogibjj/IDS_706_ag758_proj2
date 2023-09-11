@@ -17,7 +17,8 @@ visualization.py - This contains the code to analyze and visualize the output.
 
 The output of the visualization is :
 
-![Visual Interpretation - Billionaires FinalWorth in various Countries]([https://github.com/username/repository/raw/main/images/your-image.png](https://github.com/nogibjj/IDS_706_ag758_proj2/blob/main/Visualization.jpg))
+![GitHub Logo]([https://github.com/username/repository/raw/main/images/your-image.png](https://github.com/nogibjj/IDS_706_ag758_proj2/blob/main/Visualization.jpg))
+
 
 
 
