@@ -6,6 +6,7 @@ The repository contains the files utilized for Mini-Project 2 which includes:
 3. Python Files
 4. Github Actions
 5. CSV file for data analysis
+6. Summary_statistics.md 
 
 ## Purpose of the Project: 
 The aim of the project is to utilize the skeleton repository created in the earlier project to help with analyzing datasets using statistics and libraries like Pandas. I used the 'forbes_2022_billionaires.csv' to analyze the average 'FinalWorth' of billionaires in various countries. Bar Chart was used from the Plotly library to visualize the output from this analysis.
