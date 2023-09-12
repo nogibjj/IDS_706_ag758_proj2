@@ -14,7 +14,8 @@ The aim of the project is to utilize the skeleton repository created in the earl
 ## Code Description: 
 1. stats_descriptive.py - A python file that uses 4 functions to calculate mean, median, mode and standard deviation
 2. test_stats.py - A python file that reads the forbes_2022_billionaires.csv file and tests the four functions in stats_descriptive.py.  
-3. visualization.py - This contains the code to analyze and visualize the output. 
+3. visualization.py - This contains the code to analyze and visualize the output.
+4. Summary_statistics.md gives a summary of the output obtained after running the code. 
 
 
 The output of the visualization is :
