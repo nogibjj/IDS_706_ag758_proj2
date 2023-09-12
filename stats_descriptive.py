@@ -16,9 +16,9 @@ def stats_mode(df):
 def stats_std(df):
     return df["age"].std()
 
-print('mean =' + stats_mean(data))
-print('median = ' +  stats_median(data))
-print('mode ='+stats_mode(data))
-print('Standard_deviation ='+ stats_std(data))
+print('mean =' + str(stats_mean(data)))
+print('median = ' +  str(stats_median(data)))
+print('mode ='+ str(stats_mode(data)))
+print('Standard_deviation ='+ str(stats_std(data)))
 
 
